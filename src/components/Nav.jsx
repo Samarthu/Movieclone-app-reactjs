@@ -82,7 +82,7 @@ useEffect(()=>{
   <nav className="bg-gray-800 text-white p-4">
     <div className="container mx-auto flex items-center justify-between  flex-wrap">
       <div className="flex items-center">
-        <img src="/src/assets/logo_film.jpeg" alt="Movie Listing App Logo" className="w-8 h-8 mr-2"/>
+        <img src="/logo_film.jpeg" alt="Movie Listing App Logo" className="w-8 h-8 mr-2"/>
         <Link to="#" className="text-2xl font-bold">Movie Listing App</Link>
       </div>
       <div className="flex items-center">
